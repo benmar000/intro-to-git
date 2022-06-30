@@ -1,0 +1,19 @@
+Git Terms
+
+Life Cycle of files as they navigate through Git
+- Untracked
+- Tracked 
+    Tracked and untracked means whether Git has added the file
+    to the repository
+    All files start as untracked
+
+
+- Staged
+    Means a few things: 
+    - it is now Tracked
+    - it will be included in the next commit 
+- Committed
+    - Represents a version
+- Pushed
+    - Uploaded to a remote repository
+    - Some common remote repositories are GitHub and BitBucket
