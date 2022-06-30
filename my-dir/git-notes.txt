@@ -17,3 +17,10 @@ Life Cycle of files as they navigate through Git
 - Pushed
     - Uploaded to a remote repository
     - Some common remote repositories are GitHub and BitBucket
+
+-------------------
+.gitignore
+- as the name implies, .gitignore is a file where one can
+  specify files which should be ignored (untracked) by gitignore
+- We usually want logs, build files, and secrets to be 
+  included in our .gitignore
